@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.eurekaclient.controller.Greetingsctrl&apos; to &apos;InrToDollar&apos;&#x0D;&#x0A;- Original project: &apos;Springbooteurekaclientutorial&apos;&#x0D;&#x0A;- Original element: &apos;com.eurekaclient.controller.Greetingsctrl&apos;&#x0D;&#x0A;- Renamed element: &apos;com.eurekaclient.controller.InrToDollar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Greetingsctrl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.eurekaclient.controller{Greetingsctrl.java[Greetingsctrl" matchStrategy="1" name="InrToDollar" qualified="false" references="true" similarDeclarations="false" stamp="1677749106469" textual="false" version="1.0"/>
+</session>

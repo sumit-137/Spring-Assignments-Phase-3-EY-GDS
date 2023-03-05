@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677144022680_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677144022691_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677144676209_3" label="Spring-Boot-REST" name="Spring-Boot-REST"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677147343954_4" label="com-turreta-springevent" name="com-turreta-springevent"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677147519819_5" label="demo" name="demo"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677148140973_6" label="SpringBootRestfulCRUD" name="SpringBootRestfulCRUD">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringBootRestfulCRUD" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677151599797_7" label="hello-world-spring-boot" name="hello-world-spring-boot"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677216432516_8" label="SpringFileUpload" name="SpringFileUpload">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringFileUpload" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677220383114_9" label="spring-boot-ssl" name="spring-boot-ssl">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-ssl" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677229012508_10" label="spring-boot-swagger2" name="spring-boot-swagger2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-boot-swagger2" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677239492670_11" label="JUnit5Examples" name="JUnit5Examples">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JUnit5Examples" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677239551019_12" label="UsingJUnitAssertions" name="UsingJUnitAssertions">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UsingJUnitAssertions" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677558135782_13" label="SpringBootApacheKafkaHelloWorld" name="SpringBootApacheKafkaHelloWorld">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringBootApacheKafkaHelloWorld" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677568333646_14" label="Spring-MVC-LoginForm" name="Spring-MVC-LoginForm">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Spring-MVC-LoginForm" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677647302327_15" label="com.technicalkeeda.hibernate" name="com.technicalkeeda.hibernate"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677654641845_16" label="Tutorial-SpringORMwithTX" name="Tutorial-SpringORMwithTX">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Tutorial-SpringORMwithTX" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677665257070_17" label="Springbooteurekaservertutorial" name="Springbooteurekaservertutorial">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Springbooteurekaservertutorial" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677668209444_18" label="Springbooteurekaclientutorial" name="Springbooteurekaclientutorial">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Springbooteurekaclientutorial" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677733139291_19" label="Springfeignclienttutorial" name="Springfeignclienttutorial">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Springfeignclienttutorial" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677741785646_20" label="Springcloudzuulgateway" name="Springcloudzuulgateway">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Springcloudzuulgateway" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677817314006_21" label="Springcloudnetfixhystrixtutorial" name="Springcloudnetfixhystrixtutorial">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Springcloudnetfixhystrixtutorial" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677822592918_22" label="Springcloudeurekaribbon" name="Springcloudeurekaribbon">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Springcloudeurekaribbon" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677835554397_23" label="Spring3HibernateIntegration" name="Spring3HibernateIntegration">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Spring3HibernateIntegration" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1678023718511_24" label="EurekaFeighClientMoneyConversion" name="EurekaFeighClientMoneyConversion"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1677144023536_2" label="Window Working Set" name="Aggregate for window 1677144023536"/>
+</workingSetManager>
